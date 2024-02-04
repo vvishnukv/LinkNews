@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635833917757",
+    "project_id": "flutter-linknews",
+    "storage_bucket": "flutter-linknews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635833917757:android:7377c96ee7d45ff1ec2554",
+        "android_client_info": {
+          "package_name": "com.example.linknews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-B75jrYehB8lEWxKtW3wA6lOJP9R8Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635833917757:android:741d6c271ec1db91ec2554",
+        "android_client_info": {
+          "package_name": "com.forgealumnus.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-B75jrYehB8lEWxKtW3wA6lOJP9R8Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
